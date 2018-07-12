@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/perspective.unity
+- path: Assets/scenes/grass terrain.unity
   isLoaded: 1
   isActive: 1
